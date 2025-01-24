@@ -2,6 +2,10 @@ pwd
 ls
 lsblk
 touch
-cat
 sudo -i
-
+rm
+rm -rf
+rmdir
+rm -r
+cd ..
+cd ..//..//..
