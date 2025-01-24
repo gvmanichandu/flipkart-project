@@ -1,0 +1,7 @@
+pwd
+ls
+lsblk
+touch
+cat
+sudo -i
+
